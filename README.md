@@ -10,6 +10,10 @@ A simple and smart resume builder designed to help students from Tier-2/Tier-3 c
 - Beginner-friendly, mobile-friendly, and lightweight
 
 ## 🗂️ Project Structure
+resume-builder-tier2-tier3/
+├── index.html # Main HTML file with embedded CSS and JavaScript
+├── CV.jpg # Sample resume or profile image
+└── README.md # Project description and instructions (this file)
 
 ## 📦 How to Run This Project
 
@@ -21,3 +25,6 @@ cd resume-builder-tier2-tier3
 3. Open `index.html` in any browser:
    - Double-click the file **OR**
    - Right-click → Open with → Your browser
+👩‍💻 Created By
+Priya Rauniyar
+Hackathon Submission – Resume Builder for Tier-2/Tier-3 Students
